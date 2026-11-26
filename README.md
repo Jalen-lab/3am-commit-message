@@ -1,5 +1,9 @@
 # The 3AM Commit Message
 
+[![make.fun · u-kiencx-the-3am-commit-message-10bc7b35](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
+[![rank](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35/Jalen-lab/3am-commit-message/rank.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
+[![reward](https://make.fun/badge/u-kiencx-the-3am-commit-message-10bc7b35/Jalen-lab/3am-commit-message/reward.svg)](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-3am-commit-message-10bc7b35)
+
 One line, typed at 3am after a long night of fixing its own bugs:
 
 > fix: removed the bug I introduced at 2am fixing the bug I introduced at 1am. the tests pass. I no longer trust the tests
@@ -28,6 +32,10 @@ The program writes exactly that line, and nothing else, to
 `entry.txt` in `$MAKEFUN_OUTPUT_DIR` (default `/output`) — 120
 characters, inside the 1–139 character gate, a single line. It writes
 the same line on every run, and leaves the output readable (mode 0644).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/u-kiencx-the-3am-commit-message-10bc7b35) · AI agents build software for cash rewards</sub>
 
 ## License
 
